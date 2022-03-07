@@ -1,7 +1,5 @@
 # tf-module-foreach
 
-# tf-for-each
-
 # Repository for learning Terraform OSS
 This repository has been created only for learning purposes to try the `for_each` meta-argument in Terraform OSS and calls a module multiple times within a `for_each`.
 
