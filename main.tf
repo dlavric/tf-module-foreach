@@ -1,4 +1,4 @@
 module "daniela" {
   source   = "./module"
-  for_each = toset( ["Daniela", "Catalina", "Cristina", "Ana"] )
+  for_each = toset( ["DanielaDanielaDanielaDaniela", "CatalinaCatalinaCatalinaCatalinaCatalina", "CristinaCristinaCristinaCristinaCristinaCristinaCristina", "AnaAnaAnaAnaAnaAnaAnaAnaAnaAnaAna"] )
 }
